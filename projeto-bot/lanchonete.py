@@ -21,3 +21,4 @@ for linha in pagina_clientes.iter_rows(min_row=2):
 
 #webbrowser.open(link_mensagem_whatsapp)
 #input('')
+#DUASHDUASDHASUD
